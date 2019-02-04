@@ -1,0 +1,174 @@
+L E G E
+privind organizarea şi desfăşurarea votului electronic la distanță
+
+
+Parlamentul României adoptă prezenta lege.
+
+CAPITOLUL I
+Dispoziții generale
+ 
+Art. 1. - Prezenta lege reglementează procesul electoral electronic în scopul exercitării votului electronic la distanță, ca modalitate de exercitare de către cetățenii romani, a dreptului constituțional de a vota, complementară votului la urne.
+ 
+Art. 2. - Votul electronic la distanță poate fi folosit în cazul alegerilor pentru Senat și Camera Deputaților, alegerilor pentru Parlamentul European, al alegerilor pentru autoritățile administrației publice locale, al alegerilor pentru Președintele României, precum și în cazul referendumurilor naționale ori locale și indiferent dacă alegătorii au domiciliul sau reședința în țară sau în străinătate.
+ 
+Art. 3. - În sensul prezentei legi, termenii și expresiile de mai jos au următoarele semnificații:
+a) aplicație de vot electronic - sistemul software instalat pe terminalul votantului pentru a vota;
+b) buletin de vot electronic - varianta electronică a buletinului de vot, care conține opțiunile electorale și după marcare, votul alegătorului;
+c) certificat digital calificat - act de identitate sub formă electronică, folosit pentru autentificarea și certificarea identității unui cetățean în cazul accesării de la distanță a unor resurse;
+d) cheie criptografică - codul matematic folosit pentru sigilarea și desigilarea urnei de vot;
+e) proces electoral electronic - ansamblul activităţilor şi operaţiunilor de pregătire, organizare şi desfăşurare a votului electronic la distanță;
+f) semnătură electronică - date în formă electronică atașate sau logic asociate cu alte date în forma electronica și care servesc ca metodă de identificare conform art. 4, pct. 3 din Legea 455/2001 privind semnătura electronică, republicată;
+g) sigilare criptografică -  procedeu matematic și criptografic bazat pe un algoritm prin care urna de vot electronic este securizată; 
+h) sistem de numărare a votului electronic la distanță - aplicație, parte integrantă a sistemului de vot electronic, construită și folosită separat și special pentru numărarea și totalizarea voturilor și a opțiunilor electorale aflate în urna de vot electronic;
+i) sistem de vot electronic - totalitatea mijloacelor electronice, a programelor informatice și a mijloacelor de comunicație utilizate pentru desfășurarea procesului electoral electronic;
+j) sursă deschisă - modul de licențiere și proprietate al codului sursă al sistemului de vot electronic;
+k) urnă de vot electronic - sistem software care conține totalitatea voturilor exprimate de către cetățeni prin exercitarea dreptului de vot electronic;
+l) vot electronic la distanță - modalitate de exercitare a dreptului constituțional de vota, în cadrul scrutinelor prevăzute la art.2, folosind o aplicație de vot electronic, care trimite buletinul de vot, în deplina siguranța, folosind internetul.
+
+Art.4.- (1) Votul electronic la distanță va avea o fază experimentală, care se va desfășura pe parcursul următoarelor trei scrutine consecutive organizate de la data intrării în vigoare a prezentei legi. 
+(2) În faza experimentală, votul electronic la distanță se realizează într-o singură circumscripție electorală, stabilită de către Autoritatea Electorală Permanentă prin tragere la sorți la fiecare scrutin, conform unei metodologii adoptate de Autoritatea Electorală Permanentă în termen de maximum 90 de zile de la intrarea în vigoare a prezentei legi.
+(3) Autoritatea Electorală Permanentă va notifica în scris cetățenii din circumscripția electorală aleasă, în termen de cel mult 18 zile de la data tragerii la sorți. 
+(4) În cadrul primelor două scrutine din faza experimentală, voturile exprimate prin vot electronic la distanță nu sunt luate în calculul voturilor exprimate pentru declararea rezultatului alegerilor, voturile luate în calcul pentru declararea rezultatului alegerilor fiind cele exprimate pe buletinul de vot, în secția de votare.
+(5) În cazul celui de-al treilea scrutin din faza experimentală, voturile exprimate prin vot electronic la distanță sunt luate în calculul voturilor exprimate pentru declararea rezultatului alegerilor. 
+
+Art. 5.- După scrutinele din faza experimentală a votului electronic la distanță, acesta va deveni o modalitate general valabilă de exercitare de către cetățeni a dreptului constituțional de a vota. 
+ 
+Art. 6.- (1) Sistemul software utilizat pentru derularea votului electronic este cu sursă deschisă. Dezvoltatorul renunță la drepturile de autor pentru varianta sistemului dezvoltată pentru alegerile din România și pune la dispoziția Autorității Electorale Permanente codul sursă în format necompilat.
+(2) Autoritatea Electorală Permanentă publică sistemul software prevăzut la alin. (1) în mediul online pentru a oferi posibilitatea oricărei persoane interesate să formuleze sugestii și comentarii în scopul îmbunătățirii sale.
+(3) În situația în care Autoritatea Electorală Permanentă aduce îmbunătățiri sistemului software prevăzut la alin. (1), aceasta are obligația de a le pune la dispoziția publicului, în folosul întregii societăți. 
+
+Art 7. - Sistemul de vot electronic se supune unui proces de verificare și certificare de către Serviciul de Telecomunicații Speciale și de către o organizație independentă, expert în domeniul securității informatice, desemnată de către Autoritatea Electorală Permanentă prin licitație publică internațională.
+ 
+Art. 8. - (1) Stabilirea identității alegătorului și accesul acestuia la sistemul de vot electronic se efectuează folosind un certificat digital calificat eliberat conform Regulamentului (UE) nr. 910/2014 al Parlamentului European și al Consiliului din 23 iulie 2014 privind identificarea electronică și autentificarea pieței interne electronice și de abrogare a Directivei 1999/93/ CE (JO L 257/73 din 28 august 2014).
+(2) Ministerul de Externe, pentru cetățenii cu domiciliu în afară României și Autoritatea Electorală Permanentă, pentru cetățenii din România eliberează, în mod gratuit, alegătorilor certificatul digital calificat prevăzut la alin. (1).
+
+Art. 9. – (1) Votul electronic la distanță este secret.
+(2) Procesul electoral electronic este organizat astfel încât să nu fie posibilă reconstituirea unei legături între vot și alegător. 
+ 
+Art. 10. – Sistemul de vot electronic permite cetățeanului să verifice independent:
+a) dacă votul său a fost recepționat;
+b) dacă votul său a fost înscris corect;
+c) dacă votul său a fost numărat așa cum a fost înscris.
+ 
+Art.11. - Sistemul de vot electronic stochează doar datele cu caracter personal ale alegătorului necesare desfășurării procesului electoral electronic și numai pe perioada strict necesară atingerii acestui scop, până la expirarea termenelor pentru contestarea rezultatului alegerilor.
+
+Art.12. - Sistemul de vot electronic și orice parte autorizată trebuie să protejeze datele de autentificare ale alegătorului, astfel încât părțile neautorizate să nu poată utiliza, intercepta, modifica sau dobândi cunoștințe despre aceste date.
+
+Art. 13. -  (1) Votul electronic la distanță începe cu șase zile înaintea scrutinului la urne și se finalizează în ziua precedentă scrutinului la urne. 
+(2) Data și ora deschiderii votării precum și data și ora închiderii votării prin votul electronic la distanță se stabilesc prin Hotărâre de Guvern, la propunerea Autorității Electorale Permanente. 
+ 
+Art. 14. – (1) Pe perioada desfășurării votului electronic la distanță, alegătorul va putea vota electronic de mai multe ori, ultimul vot exprimat anulându-le pe cele precedente.  
+(2) Orice alegător care a votat prin vot electronic la distanță poate vota la aceleași alegeri pe buletin de vot în secția de votare. Exercitarea votului pe buletin de vot în secția de votare anulează votul exercitat anterior prin vot electronic la distanță.
+
+Art. 15 – (1) Numărătoarea votului se realizează printr-un sistem informatic diferit de cel prin care s-a înregistrat votul. 
+(2) Sistemul de numărare a votului electronic la distanță nu este conectat la rețea sau la internet.
+
+CAPITOLUL II
+Organizarea procesului electronic electoral
+ 
+Art. 16. - Procesul electronic electoral este organizat de către o structură a Autorității Electorale Permanente, desemnată special numită Comisia de Vot Electronic. 
+
+Art. 17. - (1) Comisia de Vot Electronic are un număr de trei membri permanenți, experți tehnici, persoane independente politic, desemnați pe bază de concurs și numiți prin Ordin al Președintelui Autorității Electorale Permanente. 
+(2) La scrutinele electorale membrilor permanenți ai Comisiei de Vot Electronic nu li se eliberează o cheie criptografică.
+(3) Pe perioada procesului electoral aferent fiecărui scrutin, în Comisia de Vot Electronic este numit ca membru și câte un reprezentant al fiecărui partid politic parlamentar, prin Ordin al Președintelui Autorității Electorale Permanente.
+(4) Mandatul membrilor Comisiei de Vot Electronic reprezentanți ai partidelor parlamentare este egal cu cel al membrilor Biroului Electoral Central înființat pentru procesul electoral aferent fiecărui scrutin.
+(5) Membrilor Comisiei de Vot Electronic reprezentanți ai partidelor parlamentare li se distribuie câte o cheie criptografică care va fi folosită pentru sigilarea criptografică a urnei de vot electronic. 
+
+Art. 18. - Comisia de Vot Electronic organizează testarea sistemului de vot electronic și ia măsurile necesare pentru ca sistemul de vot electronic să fie unul autentic și să funcționeze corect.
+
+Art. 19. - Sistemul de vot electronic este proprietatea exclusivă a Autorității Electorale Permanente și se află în custodia Comisiei de Vot Electronic.
+
+Art. 20. -  În scopul asigurării disponibilității, fiabilității, utilității și securității sistemului de vot electronic,  Autoritatea Electorală Permanentă are obligația de a utiliza exclusiv sistemul certificat de vot electronic, chiar și în caz de eșecuri și atacuri. 
+
+Art. 21. - Autoritatea Electorală Permanentă permite observatorilor acreditați să monitorizeze instalarea urnei electronice precum și numărarea voturilor din urna electronică. 
+
+Art. 22. - Procesul de instalare a urnei electronice, precum și sigilarea criptografică acesteia vor fi înregistrate cu camere video, imaginile fiind puse la dispoziția cetățenilor în direct pe pagina web a Autorității Electorale Permanente.  
+
+
+
+CAPITOLUL III
+Registrul electoral pentru votul electronic
+
+Art. 23. - Autoritatea Electorală Permanentă organizează în cadrul Registrului electoral o secțiune specială pentru votanții care optează pentru a vota electronic, numită Registru Electoral Electronic.
+
+Art. 24. - Cetățenii români cu drept de vot pot vota electronic la distanță dacă se înscriu, cu cel puțin 30 de zile înaintea datei fixate pentru alegeri, în Registrul Electoral Electronic și dacă dețin certificatul digital prevăzut la art.8.
+
+Art. 25. - Autoritatea Electorală Permanentă pune la dispoziția cetățenilor un portal web care conține un formular online unic pentru a aplica pentru certificat digital și pentru înscrierea în Registrul Electoral Electronic. 
+
+Art. 26. - (1) Cererea de emitere pentru certificatul digital și pentru înscrierea în Registrul Electoral Electronic va conține numele, prenumele, codul numeric personal și adresa de domiciliu sau de reședință a solicitantului, precum și locul de unde solicitantul optează să își ridice certificatul digital.
+(2) Cererea prevăzută la alin. (1) se transmite, la distanță, prin internet prin intermediul portalului prevăzut la art. 25 sau se înregistrează la oficiile comunicate de către Autoritatea Electorală Permanentă. 
+(3) Cetățenii români cu domiciliul sau reședința în statele în care România nu are misiune diplomatică ori oficiu consular, pot transmite cererile de înscriere în Registrul Electoral Electronic, cu respectarea aceluiași termen, către misiunile diplomatice care îndeplinesc funcția de reprezentare a statului român în respectivul stat.
+(4) Cetățenii români cu domiciliul sau reședința în statele cu care România nu are stabilite relații diplomatice ori consulare și nici misiune diplomatică acreditată ori oficiu consular acreditat, pot transmite cererile de înscriere în Registrul Electoral Electronic, cu respectarea aceluiași termen, către una dintre cele mai apropiate misiuni diplomatice sau consulare ale României.    
+
+Art. 27. - (1) Validarea cererii prevăzute la art. 26, alin. (1) are loc în termen de cel mult șapte zile de la data înregistrării cererii.
+(2) După validarea cererii, atribuirea certificatelor digitale se face, în țară, de către Autoritatea Electorala, iar pentru cetățenii din străinătate, de către Ministerul de Externe prin misiunile diplomatice și oficiile consulare ale României. 
+(3) Ridicarea certificatelor digitale se face în persoană, pe baza unui document de identitate valabil, la oficiile celor două instituții. 
+(4) Stocarea certificatului digital se poate face prin token fizic sau prin instalarea pe un terminal mobil al cetățeanului.
+(5) În cazul furtului, pierderii sau deteriorării token-ului, se poate transmite o nouă cerere de emitere a unui certificat digital, dar nu mai târziu de 10 zile înaintea datei prevăzute pentru începerea votului electronic la distanță. 
+
+Art. 28. -  Autoritatea Electorală Permanentă nu poate refuza înscrierea cetățenilor români cu drept de vot în Registrul Electoral Electronic și nici emiterea certificatului digital, dacă cererile formulate de aceștia îndeplinesc condițiile prevăzute de lege.
+                
+                             
+CAPITOLUL IV
+Pregătirea votării electronice
+ 
+Art. 29. – Cu 30 de zile înainte de ziua votării, Comisia de Vot Electronic realizează, pe portalul web prevăzut la art. 25, o campanie de informare privind procesul electronic electoral și dă acces cetățenilor la aplicația de vot electronic. 
+ 
+ 
+Art. 30. – (1) Aplicația de vot electronic generează pentru fiecare membru al Comisiei de Vot Electronic reprezentant al unui grup politic parlamentar o cheie criptografică care va fi folosită pentru sigilarea criptografică a urnei de vot electronic. 
+(2) Deschiderea urnei electronice de vot și numărarea voturilor electronice la distanță exprimate nu se poate realiza fără introducerea tuturor cheilor aparținând membrilor Comisiei de Vot Electronic reprezentanți ai grupurilor politice parlamentare. 
+ 
+CAPITOLUL V
+Procedura de vot electronic
+ 
+Art. 31. - (1) Aplicația de vot electronic afișează alegătorului buletinul de vot corespunzător fiecărui tip de alegeri. 
+(2) Conținutul buletinului de vot va fi identic cu al buletinului de hârtie pentru tipul de alegere respective, se aprobă prin Hotărâre de Guvern și se publică în Monitorul Oficial.
+ 
+Art. 32. -  (1) Alegătorul își exprimă votul prin bifarea pe buletinul de vot a unei singure căsuțe.
+(2) După exprimarea votului său, alegătorul verifică, în cadrul aceleiași aplicații de vot electronic, corectitudinea înregistrării votului și confirmă alegerea sa, înainte ca votul să fie salvat.
+(3) Aplicația folosită pentru votul electronic criptează votul alegătorului folosind cheia de criptare a voturilor.
+(4) Alegătorul confirmă votul printr-o semnătură electronică extinsă, bazată pe certificatul digital calificat atribuit conform prevederilor art. 27.
+(5) Sistemul electronic de vot trimite alegătorului, prin email sau sms o confirmare a faptului că votul său a fost exercitat cu succes și că procedura de vot a fost finalizată. 
+
+Art. 33. - După închiderea votării electronice, Comisia de Vot Electronic marchează în registrul electoral persoanele care au votat prin vot electronic la distanță.
+ 
+Art. 34 - Numărătoarea voturilor electronice la distanță se efectuează la finalul zilei alegerilor, imediat după închiderea secțiilor de votare. 
+
+Art. 35. - După închiderea urnelor din secțiile de vot, lista celor care au votat la urne, pe buletinul de vot, se corelează cu lista alegătorilor care au votat electronic, urmând ca din această din urmă listă să fie extrase voturile alegătorilor care au votat la urne.
+
+Art. 36 - (1) Înainte de stabilirea rezultatelor votării în seara zilei de alegeri, voturile criptate și semnăturile digitale sunt separate, după care sunt decriptate și numărate. 
+(2) Sistemul decriptează voturile numai dacă nu sunt conectate la date cu caracter personal.
+
+Art. 37. - Comisia de Vot Electronic deschide urna de vot electronic reunind cheile prevazute la art. 30.
+
+Art. 38. - După finalizarea procesului de numărare a voturilor, sistemul de numărare a votului electronic la distanță generează un proces verbal cu rezultatele votului.  
+
+CAPITOLUL VI
+Infracțiuni și contravenții
+
+Art. 39. - Nerespectarea dispozițiilor prezentei legi atrage, după caz, răspunderea contravențională, civilă sau penală.
+
+Art. 40. - Achiziționarea în numele și pe seama Autorității Electorale Permanente a unui sistem de vot electronic care nu îndeplinește standardele de securitate necesare bunei desfășurări a procedurii de vot electronic constituie infracțiune și se pedepsește cu închisoare de la 2 la 7 de ani.
+
+Art. 41. - (1) Accesarea de către persoane neautorizat a sistemului de vot electronic, constituie infracțiune și se pedepsește cu închisoare de la 1 la 5 ani de ani. 
+(2) Tentativa se pedepsește.
+
+Art. 42. - Refuzul, fără drept, al membrului Comisiei de Vot Electronic de a-și folosi cheia criptografică în scopul pentru care a fost atribuită constituie infracțiune și se pedepsește cu închisoare de la 2 la 7 de ani. 
+
+Art. 43. - (1) Folosirea unui alt sistem de vot electronic decât cel certificat în caz de eșecuri sau de atacuri asupra sistemului de vot electronic certificat constituie infracțiune și se pedepsește cu închisoare de la 7 la 17 ani.
+(2) Tentativa se pedepsește.
+
+Art. 44. - Constituie contravenţii, dacă nu sunt săvârşite în astfel de condiţii încât să constituie potrivit legii penale infracţiuni, următoarele fapte:
+a) încălcarea prevederilor art. 11 și ale art. 12;
+b) efectuarea de operaţiuni în Registrul Electoral Electronic de către persoane neautorizate;
+c) încălcarea prevederilor art. 18, art. 21, art. 22 și ale art. 28;
+d) eliberarea certificatelor digitale prevăzute la art. 8 în alte condiții decât cele prevăzute la art. 27, alin. (2) și (3);
+e) înscrierea, cu bună-ştiinţă, în Registrul Electoral Electronic a unor persoane fictive ori care nu au drept de vot sau care nu au solicitat acest lucru.
+
+Art. 45. - (1) Contravenţiile prevăzute la art. 44 se sancționează după cum urmează:
+a) faptele prevăzute la lit. a) și la lit. b) cu amendă de la 15.000 lei la 30.000 lei;
+b) faptele prevăzute la lit. c) cu amendă de la 35.000 lei la 70.000 lei;
+c) faptele prevăzute la lit. d) și e) cu amendă de la 75.000 la 100.000 lei.
+(2) Constatarea contravenţiilor prevăzute la art. 44 şi aplicarea sancţiunilor prevăzute la alin. (1) se fac de către împuterniciţii preşedintelui Autorităţii Electorale Permanente.
+(3) Contravenientul poate achita, pe loc sau în termen de cel mult 48 de ore de la data încheierii procesului-verbal ori, după caz, de la data comunicării acestuia, jumătate din minimul amenzii prevăzute la alin. (1), agentul constatator făcând menţiune despre această posibilitate în procesul-verbal. 
+(4) Contravenţiilor prevăzute la art. 44 le sunt aplicabile dispoziţiile Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare. 
